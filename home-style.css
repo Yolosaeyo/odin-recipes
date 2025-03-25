@@ -1,13 +1,12 @@
 * {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    background-color: blanchedalmond;
 }
 
 h1 {
     font-weight: bold;
     font-size: 80px;
-    background-color: sienna;
-    background-attachment: fixed;
 }
 ul {
     font-weight: bold;
