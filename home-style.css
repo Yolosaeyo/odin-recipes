@@ -7,9 +7,13 @@
 h1 {
     font-weight: bold;
     font-size: 80px;
+    background-color: sienna;
+    border-color: black;
+    border-radius: 24px;
+    color: black;
 }
 ul {
     font-weight: bold;
-    font-size: 60px;
+    font-size: 48px;
     list-style: none;
 }
