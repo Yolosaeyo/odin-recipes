@@ -9,8 +9,18 @@ h1 {
     font-size: 80px;
     background-color: sienna;
     border-color: black;
+    outline: auto;
     border-radius: 24px;
     color: black;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px;
+    height: auto;
+
 }
 ul {
     font-weight: bold;
